@@ -1,4 +1,4 @@
-![Banner](https://storage.needpix.com/rsynced_images/tv-2213140_1280.png)
+![Banner](banner.png)
 ### Badges
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)]
