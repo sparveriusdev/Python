@@ -1,7 +1,7 @@
 ![Banner](banner.png)
 ### Badges
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)]
+[![Python](https://img.shields.io/badge/Python-3.12%2B-blue)](https://www.python.org/downloads/)
 [![Wikipedia](https://img.shields.io/badge/Wikipedia-Magnavox_Odyssey-orange)](https://en.wikipedia.org/wiki/Magnavox_Odyssey)
 [![Wikipedia](https://img.shields.io/badge/Wikipedia-Programming-green)](https://en.wikipedia.org/wiki/Programming_paradigm)
 
