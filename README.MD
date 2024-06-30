@@ -229,5 +229,6 @@ A diferencia de la programación funcional, que se centra en la aplicación de f
 
 ---
 
-© 2024 Tu Nombre
+© 2024 Sparveriusdev 
+![Imagen pequeña](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/American_Kestrel_-_Falco_sparverius%2C_just_outside_Everglades_National_Park%2C_Homestead%2C_Florida.jpg/169px-American_Kestrel_-_Falco_sparverius%2C_just_outside_Everglades_National_Park%2C_Homestead%2C_Florida.jpg)
 
