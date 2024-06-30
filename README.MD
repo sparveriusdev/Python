@@ -1,5 +1,5 @@
 ![Banner](banner.png)
-### Badges
+
 
 [![Python](https://img.shields.io/badge/Python-3.12%2B-blue)](https://www.python.org/downloads/)
 [![Wikipedia](https://img.shields.io/badge/Wikipedia-Magnavox_Odyssey-orange)](https://en.wikipedia.org/wiki/Magnavox_Odyssey)
